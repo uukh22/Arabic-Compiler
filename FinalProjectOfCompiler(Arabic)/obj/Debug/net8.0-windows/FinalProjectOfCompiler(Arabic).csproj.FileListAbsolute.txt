@@ -1,0 +1,32 @@
+C:\Users\Khaled Ibrahem\OneDrive - Assuit University\Desktop\Level 4\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\bin\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).exe
+C:\Users\Khaled Ibrahem\OneDrive - Assuit University\Desktop\Level 4\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\bin\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).deps.json
+C:\Users\Khaled Ibrahem\OneDrive - Assuit University\Desktop\Level 4\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\bin\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).runtimeconfig.json
+C:\Users\Khaled Ibrahem\OneDrive - Assuit University\Desktop\Level 4\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\bin\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).dll
+C:\Users\Khaled Ibrahem\OneDrive - Assuit University\Desktop\Level 4\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\bin\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).pdb
+C:\Users\Khaled Ibrahem\OneDrive - Assuit University\Desktop\Level 4\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\FinalProjectOfCompiler_Arabic_.Form1.resources
+C:\Users\Khaled Ibrahem\OneDrive - Assuit University\Desktop\Level 4\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).csproj.GenerateResource.cache
+C:\Users\Khaled Ibrahem\OneDrive - Assuit University\Desktop\Level 4\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khaled Ibrahem\OneDrive - Assuit University\Desktop\Level 4\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).AssemblyInfoInputs.cache
+C:\Users\Khaled Ibrahem\OneDrive - Assuit University\Desktop\Level 4\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).AssemblyInfo.cs
+C:\Users\Khaled Ibrahem\OneDrive - Assuit University\Desktop\Level 4\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).csproj.CoreCompileInputs.cache
+C:\Users\Khaled Ibrahem\OneDrive - Assuit University\Desktop\Level 4\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).dll
+C:\Users\Khaled Ibrahem\OneDrive - Assuit University\Desktop\Level 4\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\refint\FinalProjectOfCompiler(Arabic).dll
+C:\Users\Khaled Ibrahem\OneDrive - Assuit University\Desktop\Level 4\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).pdb
+C:\Users\Khaled Ibrahem\OneDrive - Assuit University\Desktop\Level 4\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).genruntimeconfig.cache
+C:\Users\Khaled Ibrahem\OneDrive - Assuit University\Desktop\Level 4\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\ref\FinalProjectOfCompiler(Arabic).dll
+E:\Level 4\first term\Compiler\Tasks\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\bin\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).exe
+E:\Level 4\first term\Compiler\Tasks\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\bin\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).deps.json
+E:\Level 4\first term\Compiler\Tasks\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\bin\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).runtimeconfig.json
+E:\Level 4\first term\Compiler\Tasks\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\bin\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).dll
+E:\Level 4\first term\Compiler\Tasks\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\bin\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).pdb
+E:\Level 4\first term\Compiler\Tasks\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\FinalProjectOfCompiler_Arabic_.Form1.resources
+E:\Level 4\first term\Compiler\Tasks\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).csproj.GenerateResource.cache
+E:\Level 4\first term\Compiler\Tasks\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).GeneratedMSBuildEditorConfig.editorconfig
+E:\Level 4\first term\Compiler\Tasks\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).AssemblyInfoInputs.cache
+E:\Level 4\first term\Compiler\Tasks\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).AssemblyInfo.cs
+E:\Level 4\first term\Compiler\Tasks\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).csproj.CoreCompileInputs.cache
+E:\Level 4\first term\Compiler\Tasks\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).dll
+E:\Level 4\first term\Compiler\Tasks\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\refint\FinalProjectOfCompiler(Arabic).dll
+E:\Level 4\first term\Compiler\Tasks\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).pdb
+E:\Level 4\first term\Compiler\Tasks\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\FinalProjectOfCompiler(Arabic).genruntimeconfig.cache
+E:\Level 4\first term\Compiler\Tasks\FinalProjectOfCompiler(Arabic)\FinalProjectOfCompiler(Arabic)\obj\Debug\net8.0-windows\ref\FinalProjectOfCompiler(Arabic).dll
